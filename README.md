@@ -14,7 +14,7 @@ The main objective of this project was to analyze the performance and trends of 
 - **Marley_International_Store_Presentation:** PowerPoint presentation showcasing the detailed analysis and insights.
 - **Methodology:** A comprehensive outline of the methodology employed for the data analysis.
 - **Findings and Insights:** A summary of the key findings and actionable insights derived from the analysis.
-- **Power BI Report:** The published Power Bi report.[Link:  
+- **Power BI Report:** The published Power Bi report. [Link: https://app.powerbi.com/view?r=eyJrIjoiOWE4NjQyOGQtMjAxNi00YTgyLWEwM2YtY2E0NWVmNGE4ZjJhIiwidCI6IjFkZWZiYjE3LTgzODAtNDY1Yy1iNDZiLWIxZWQxNzA3YTIxNyJ9&embedImagePlaceholder=true]
 
 ## How to Use
 
