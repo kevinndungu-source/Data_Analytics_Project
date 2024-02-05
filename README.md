@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Data Analytics Project
 
 This repository serves as a comprehensive showcase of my data analytics projects, with a primary focus on retail analysis and insights. It includes a detailed analysis of Marley International Store, a prominent retail establishment, conducted using Power BI.
 
