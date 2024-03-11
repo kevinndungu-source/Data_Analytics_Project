@@ -8,7 +8,7 @@ The main objective of this project was to analyze the performance and trends of 
 
 ## Contents
 
-- **Marley_International_Store_Data:** Raw data files used for the analysis.
+- **Marley_International_Store_Data:** Data used for the analysis.
 - **Marley_International_Store_Presentation:** PowerPoint presentation showcasing the detailed analysis and insights.
 - **Methodology:** A comprehensive outline of the methodology employed for the data analysis.
 - **Findings and Insights:** A summary of the key findings and actionable insights derived from the analysis.
