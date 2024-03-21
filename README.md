@@ -5,6 +5,8 @@ This repository serves as a comprehensive showcase of my data analytics projects
 ## Project Overview
 
 The main objective of this project was to analyze the performance and trends of Marley International Store, leveraging data analytics and visualization techniques. The analysis encompassed various aspects of the store's operations, including sales trends, product categories, regional performance, and customer segmentation.
+![PowerBI Topology](https://github.com/kevinndungu-source/Data-Analytics-Project/assets/114335263/4a3259f4-d8ac-4e18-a86b-95d416ec25e2)
+
 
 ## Contents
 
