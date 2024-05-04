@@ -15,7 +15,7 @@ The main objective of this project was to analyze the performance and trends of 
 
 - **Marley_International_Store_Data:** Data used for the analysis.
 - **Marley_International_Store_Presentation:** PowerPoint presentation showcasing the detailed analysis and insights.
-- **Methodology:** A comprehensive outline of the methodology employed for the data analysis.
+- **Methodology_documentation:** A comprehensive outline of the methodology employed for the data analysis.
 - **Findings and Insights:** A summary of the key findings and actionable insights derived from the analysis.
 - **Power BI Report:** The published Power Bi report. [Link to visit the Power-Bi report](https://app.powerbi.com/view?r=eyJrIjoiOWE4NjQyOGQtMjAxNi00YTgyLWEwM2YtY2E0NWVmNGE4ZjJhIiwidCI6IjFkZWZiYjE3LTgzODAtNDY1Yy1iNDZiLWIxZWQxNzA3YTIxNyJ9&embedImagePlaceholder=true).
 
@@ -27,8 +27,9 @@ Feel free to explore the repository and access the data and presentation files. 
 
 I am a passionate data analyst with a keen interest in leveraging data-driven strategies to drive business growth and innovation. My expertise lies in data visualization, exploratory data analysis, and deriving actionable insights from complex datasets.
 
-## Contact Information
-
-For any inquiries or collaboration opportunities, please feel free to reach out to me via [kevinndungu985@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/kevinndungu789/).
-
+>## Contact Information
+>
+>For any inquiries or collaboration opportunities, please feel free to reach out to me via my email [kevinndungu985@gmail.com](kevinndungu985@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kevinndungu789/).
+>
+>
 Thank you for visiting my Data Analytics Portfolio repository!
