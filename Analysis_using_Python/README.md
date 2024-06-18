@@ -178,4 +178,4 @@ To reproduce this analysis, follow the steps below:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/kevinndungu-source/Data_Analytics_Project
+   git clone https://github.com/kevinndungu-source/Data_Analytics_Project/tree/main/Analysis_using_Python
