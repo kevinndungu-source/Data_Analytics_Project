@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Load the Excel file
 
-# Please note: If your're practising using this script, kindly change the location path to reflect your current location of the dataset.
+# Please note: If you're practising using this script, kindly change the location path to reflect your current location of the dataset.
 
 file_path = r'C:\Users\ADMIN\Documents\Personal\Naivas\Marley International Store-2015.xlsx'
 xls = pd.ExcelFile(file_path)
