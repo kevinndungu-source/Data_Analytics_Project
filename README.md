@@ -17,7 +17,7 @@ The main objective of this project was to analyze the performance and trends of 
 - **Methodology_documentation:** A comprehensive outline of the methodology employed for the data analysis.
 - **Findings and Insights:** A summary of the key findings and actionable insights derived from the analysis.
 - **Power BI Report:** The published Power Bi report. [Link to visit the Power-Bi report](https://app.powerbi.com/view?r=eyJrIjoiOWE4NjQyOGQtMjAxNi00YTgyLWEwM2YtY2E0NWVmNGE4ZjJhIiwidCI6IjFkZWZiYjE3LTgzODAtNDY1Yy1iNDZiLWIxZWQxNzA3YTIxNyJ9&embedImagePlaceholder=true).
-- **Python_Code:** Alternative analysis conducted using Python. [Link to Python analysis](Data_Analytics_Project/Analysis_using_Python/README.md).
+- **Python_Code:** Alternative analysis conducted using Python. [Link to Python analysis](https://github.com/kevinndungu-source/Data_Analytics_Project/tree/main/Analysis_using_Python).
 
 ## How to Use
 
