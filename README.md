@@ -21,7 +21,7 @@ The main objective of this project was to analyze the performance and trends of 
 
 ## How to Use
 
-Feel free to explore the repository and access the data and presentation files. The Power BI report provides an interactive and visually engaging overview of the analysis, highlighting essential insights and recommendations for Marley International Store. The Python script and Jupyter notebook offer an alternative programmatic approach to the same analysis.
+Feel free to explore the repository and access the data and presentation files. The Power BI report provides an interactive and visually engaging overview of the analysis, highlighting essential insights and recommendations for Marley International Store. The Python script and Jupyter Notebook offer an alternative programmatic approach to the same analysis.
 
 ## About Me
 
@@ -29,7 +29,7 @@ I am a passionate Solutions Architect and Data Analyst with a keen interest in l
 
 >## Contact Information
 >
->For any inquiries or collaboration opportunities, please feel free to reach out to me via my email [kevinndungu985@gmail.com](kevinndungu985@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kevinndungu789/).
+>For any inquiries or collaboration opportunities, please feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/kevinndungu789/).
 >
 >
 Thank you for visiting my Data Analytics Portfolio repository!
