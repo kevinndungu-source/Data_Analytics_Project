@@ -23,6 +23,8 @@ The main objective of this project was to analyze the performance and trends of 
 
 Feel free to explore the repository and access the data and presentation files. The Power BI report provides an interactive and visually engaging overview of the analysis, highlighting essential insights and recommendations for Marley International Store. The Python script and Jupyter Notebook offer an alternative programmatic approach to the same analysis.
 
+---
+
 ## About Me
 
 I am a passionate Solutions Architect and Data Analyst with a keen interest in leveraging data-driven strategies to drive business growth and innovation. My expertise lies in data visualization, exploratory data analysis, and deriving actionable insights from complex datasets.
